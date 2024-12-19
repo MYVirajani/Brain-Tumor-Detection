@@ -1,8 +1,8 @@
 # Brain Tumor Detection Using Convolutional Neural Networks (CNN)
 
-Brain tumor detection is a critical aspect of medical imaging, aiding in timely and accurate diagnosis. This project leverages Convolutional Neural Networks (CNN) to classify brain MRI images into tumor and non-tumor categories. By automating the detection process, it seeks to enhance the reliability of diagnostic procedures.
+## Introduction
 
----
+This project focuses on developing a deep learning solution for brain tumor detection using Convolutional Neural Networks (CNN). Brain tumor detection is a critical aspect of medical imaging, aiding in timely and accurate diagnosis. The solution encompasses dataset preprocessing, model training, and performance analysis to classify brain MRI images into four categories: Glioma Tumor, Meningioma Tumor, No Tumor, and Pituitary Tumor. By automating the detection process, this project aims to improve the accuracy, efficiency, and reliability of diagnostic procedures.
 
 ## Features
 
